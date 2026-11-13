@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sutra.sanchaya.net/sitemap.xml
